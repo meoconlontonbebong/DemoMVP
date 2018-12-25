@@ -1,7 +1,9 @@
-package com.example.kienphung.demomvp;
+package com.example.kienphung.demomvp.screen;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
+
+import com.example.kienphung.demomvp.R;
 
 public class MainActivity extends AppCompatActivity {
 
